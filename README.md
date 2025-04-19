@@ -7,3 +7,4 @@
 <li>imagens</li>
 </ul>
 <p>Ideal para iniciantes que estão começando no desenvolvimento web.</p>
+<img src="https://github.com/evelincristina24/HTML/blob/main/img/Captura%20de%20tela%202025-04-18%20184516.png?raw=true" alt="quem sou"/>
